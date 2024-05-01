@@ -3,3 +3,13 @@ body{
 	background-color:yellow;
 	text-align:center;
 }
+#f1{
+   height:200px;
+	width:200px;
+	position:relative
+}
+#f2{
+	height:200px;
+	width:200px;
+	position:static
+}
